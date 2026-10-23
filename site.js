@@ -33,7 +33,7 @@ const HERO_MEDIA = "";
    Photo yahan ek baar lagane se home, products aur machine ke page, teeno par dikhegi. */
 const PRODUCTS = [
   {
-    id:"cup", slug:"cup-and-glass-sealer", name:"Cup and Glass Sealer", type:"cup", image:"images/cup-and-glass-sealer.jpg", gallery:[], tag:"Cups and glasses",
+    id:"cup", slug:"cup-and-glass-sealer", name:"Cup and Glass Sealer", type:"cup", image:"images/cup-glass-sealer.jpg", gallery:[], tag:"Cups and glasses",
     desc:"Seals plastic cups and glasses with film. Good for tea, lassi, juice, shakes, curd and desserts.",
     seals:"Cups and glasses", best:"Tea stalls, juice bars, dessert shops",
     specs:{ "Container size":"95 mm diameter", "Output":"300 to 400 cups per hour", "Power":"350 W, single phase", "Body":"Stainless steel" },
