@@ -8,7 +8,7 @@
    2. Email par aayi hui "Access Key" copy karein.
    3. Neeche "YOUR_ACCESS_KEY_HERE" ki jagah wo key paste karein (quotes ke andar).
    Ye ek hi jagah badalni hai, saare pages ke forms par lagu hogi. */
-const WEB3FORMS_KEY = "YOUR_ACCESS_KEY_HERE";
+const WEB3FORMS_KEY = "727ae0dd-437e-46a8-bb65-e2a6d72287f6";
 
 const PHONE_LINK = "tel:+918510813358";
 const PHONE_TEXT = "+91 85108 13358";
