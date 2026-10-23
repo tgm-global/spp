@@ -20,7 +20,7 @@ const WA_URL = "https://wa.me/918510813358";
      const HERO_MEDIA = "images/hero.jpg";    (photo)
      const HERO_MEDIA = "images/hero.mp4";    (video, apne aap chalta hai, bina awaaz)
    Khali ("") rakhne par purani animation dikhegi. */
-const HERO_MEDIA = "";
+const HERO_MEDIA = "images/hero.jpg";
 
 /* ---------- 2. PRODUCT DATA (specs aur photos yahin badlein) ----------
    PHOTO LAGANE KE LIYE: har product mein image:"" ke andar photo ka path likhein.
