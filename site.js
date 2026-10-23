@@ -25,42 +25,42 @@ const WA_URL = "https://wa.me/918510813358";
    Photo yahan ek baar lagane se home, products aur machine ke page, teeno par dikhegi. */
 const PRODUCTS = [
   {
-    id:"cup", slug:"cup-and-glass-sealer", name:"Cup and Glass Sealer", type:"cup", image:"", gallery:[], tag:"Cups and glasses",
+    id:"cup", slug:"cup-and-glass-sealer", name:"Cup and Glass Sealer", type:"cup", image:"images/cup-glass-sealer.jpg", gallery:[], tag:"Cups and glasses",
     desc:"Seals plastic cups and glasses with film. Good for tea, lassi, juice, shakes, curd and desserts.",
     seals:"Cups and glasses", best:"Tea stalls, juice bars, dessert shops",
     specs:{ "Container size":"95 mm diameter", "Output":"300 to 400 cups per hour", "Power":"350 W, single phase", "Body":"Stainless steel" },
     output:"300 to 400"
   },
   {
-    id:"round", slug:"round-container-sealer", name:"Round Container Sealer", type:"round", image:"", gallery:[], tag:"Round containers",
+    id:"round", slug:"round-container-sealer", name:"Round Container Sealer", type:"round", image:"images/round-container-sealer.jpg", gallery:[], tag:"Round containers",
     desc:"Seals round bowls and containers for soups, biryani, curries, ice cream and sweets.",
     seals:"Round bowls and tubs", best:"Soup, biryani, sweets, ice cream",
     specs:{ "Container size":"123 mm diameter", "Output":"200 to 300 pieces per hour", "Power":"600 W, single phase", "Body":"Stainless steel" },
     output:"200 to 300"
   },
   {
-    id:"rect", slug:"rectangular-tray-sealer", name:"Rectangular Tray Sealer", type:"rect", image:"", gallery:[], tag:"1 compartment",
+    id:"rect", slug:"rectangular-tray-sealer", name:"Rectangular Tray Sealer", type:"rect", image:"images/rectangular-tray-sealer.jpg", gallery:[], tag:"1 compartment",
     desc:"Seals single-compartment rectangular trays for rice, noodles, salads, cut fruit and bakery items.",
     seals:"Single-compartment trays", best:"Salads, noodles, fruit, bakery",
     specs:{ "Tray size":"220 x 150 mm", "Output":"200 to 300 trays per hour", "Power":"750 W, single phase", "Body":"Stainless steel" },
     output:"200 to 300"
   },
   {
-    id:"p2", slug:"2-portion-tray-sealer", name:"2 Portion Tray Sealer", type:"p2", image:"", gallery:[], tag:"2 compartments",
+    id:"p2", slug:"2-portion-tray-sealer", name:"2 Portion Tray Sealer", type:"p2", image:"images/2-portion-tray-sealer.jpg", gallery:[], tag:"2 compartments",
     desc:"Seals two-compartment trays so dal and rice, or curry and bread, stay apart until it is time to eat.",
     seals:"2-compartment trays", best:"Tiffin and lunch box orders",
     specs:{ "Tray size":"240 x 170 mm", "Output":"200 to 280 trays per hour", "Power":"850 W, single phase", "Body":"Stainless steel" },
     output:"200 to 280"
   },
   {
-    id:"p5", slug:"5-portion-meal-tray-sealer", name:"5 Portion Meal Tray Sealer", type:"p5", image:"", gallery:[], tag:"5 compartments",
+    id:"p5", slug:"5-portion-meal-tray-sealer", name:"5 Portion Meal Tray Sealer", type:"p5", image:"images/5-portion-meal-tray-sealer.jpg", gallery:[], tag:"5 compartments",
     desc:"Seals 5-compartment thali trays. Made for meal boxes with rice, dal, vegetables, roti and sweet.",
     seals:"5-compartment meal trays", best:"Cloud kitchens, canteens, caterers",
     specs:{ "Tray size":"270 x 200 mm", "Output":"150 to 250 trays per hour", "Power":"1000 W, single phase", "Body":"Stainless steel" },
     output:"150 to 250"
   },
   {
-    id:"p8", slug:"8-portion-meal-tray-sealer", name:"8 Portion Meal Tray Sealer", type:"p8", image:"", gallery:[], tag:"8 compartments",
+    id:"p8", slug:"8-portion-meal-tray-sealer", name:"8 Portion Meal Tray Sealer", type:"p8", image:"images/8-portion-meal-tray-sealer.jpg", gallery:[], tag:"8 compartments",
     desc:"Seals large 8-compartment trays for full thali meals, hospital diet meals and airline-style catering.",
     seals:"8-compartment meal trays", best:"Hospitals, factories, large catering",
     specs:{ "Tray size":"330 x 230 mm", "Output":"120 to 200 trays per hour", "Power":"1200 W, single phase", "Body":"Stainless steel" },
